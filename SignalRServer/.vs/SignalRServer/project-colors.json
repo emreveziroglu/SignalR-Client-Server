@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8fabfc9-d2b9-44ee-a597-bbc3b8ef5247": {
+      "ProjectGuid": "f8fabfc9-d2b9-44ee-a597-bbc3b8ef5247",
+      "DisplayName": "SignalRServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
